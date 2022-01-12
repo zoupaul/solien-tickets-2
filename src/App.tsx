@@ -103,7 +103,7 @@ const App = () => {
             <div style={{ padding: "0 24px 0 24px 0" }}>
               <h1 className="pb-3">Solien | Astro Tickets</h1>
               <p className="text-secondary-color">
-              Soliens DAO is proud to present this unique investment opportunity in the future of your PhotoFinish 2 stable! Each ticket minted here is redeemable for ONE (1) cover with the RANK #2 Stylish Stud, the Astro Stud. This opportunity is designed to allow those persons without the means to PURCHASE such a rare stud for themselves to still be able to generate a top-notch racehorse, and to start their stable off on the right foot. Simply connect your wallet and click the mint button, just like any other mint; but do it fast, as there are only 30 tickets available!
+              Soliens DAO is proud to present this unique investment opportunity in the future of your PhotoFinish 2 stable! Each ticket minted here is redeemable for ONE (1) cover with the RANK #13 Stylish Stud. This opportunity is designed to allow those persons without the means to PURCHASE such a rare stud for themselves to still be able to generate a top-notch racehorse, and to start their stable off on the right foot. Simply connect your wallet and click the mint button, just like any other mint; but do it fast, as there are only 30 tickets available!
               </p>
             </div>
             <div>
@@ -133,9 +133,18 @@ const App = () => {
           <div id="link4" className="container faq card">
             <h1 style={{ padding: "0 0 24px 0" }}>FAQ</h1>
             <div>
+              <h4>What is the minting price?</h4>
+              <p>
+              The minting price is 5 SOL per Stylish Stud Ticket.
+              </p>
+
+              <hr />
+            </div>
+            
+            <div>
               <h4>What restrictions exist in Filly selection, if any?</h4>
               <p>
-              1/1 Fillies are excluded from the Astro Stud breeding tickets and can be handled on a case-by-case basis, all other Fillies are fair game!
+              1/1 Fillies are excluded from the Stylish Stud breeding tickets and can be handled on a case-by-case basis, all other Fillies are fair game!
               </p>
 
               <hr />
