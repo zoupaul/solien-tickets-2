@@ -101,7 +101,7 @@ const App = () => {
       <div className="content-wrapper">
           <header className="card" id="link1">
             <div style={{ padding: "0 24px 0 24px 0" }}>
-              <h1 className="pb-3">Solien | Astro Tickets</h1>
+              <h1 className="pb-3">Solien | Tickets</h1>
               <p className="text-secondary-color">
               Soliens DAO is proud to present this unique investment opportunity in the future of your PhotoFinish 2 stable! Each ticket minted here is redeemable for ONE (1) cover with the RANK #13 Stylish Stud. This opportunity is designed to allow those persons without the means to PURCHASE such a rare stud for themselves to still be able to generate a top-notch racehorse, and to start their stable off on the right foot. Simply connect your wallet and click the mint button, just like any other mint; but do it fast, as there are only 30 tickets available!
               </p>
