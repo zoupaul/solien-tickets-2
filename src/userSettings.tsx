@@ -52,7 +52,7 @@ export const welcomeSettings: WelcomeSettings = {
 
   //Title and Description
   title: "Welcome!",
-  desc: "Mint at 8PM UTC on Jan 12,2022",
+  desc: "Mint at 8PM UTC on Jan 12, 2022",
 
   // Countdown Timer
   countdownEnable: true,
