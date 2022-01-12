@@ -81,7 +81,7 @@ const App = () => {
           <div className="social-icons"> 
             <img className="nav-logo" src="/img/logo.png" alt=""></img>
             <a className="nav-title" href="https://soliens.super.site">
-                Soliens DAO
+                Solien DAO
             </a>
           </div>
           
