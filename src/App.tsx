@@ -80,16 +80,16 @@ const App = () => {
         <div className="nav-container">
           <div className="social-icons"> 
             <img className="nav-logo" src="/img/logo.png" alt=""></img>
-            <a className="nav-title" href="https://soliens.super.site" target="_blank">
+            <a className="nav-title" href="https://soliens.super.site">
                 Soliens DAO
             </a>
           </div>
           
           <div className="social-icons">
-            <a href="https://twitter.com/soliensnft" target="_blank">
+            <a href="https://twitter.com/soliensnft">
               <img className="nav-social" src="/icons/twitter.svg" alt="" />
             </a>
-            <a href="https://discord.gg/RzBqCYxuGy" target="_blank">  
+            <a href="https://discord.gg/RzBqCYxuGy">  
               <img className="nav-social" src="/icons/discord.svg" alt="" />
             </a>
             </div>
